@@ -7,7 +7,7 @@ Input -
 
 Output -
 <br>
-<img width="500" height="150" alt="image" src="https://github.com/shreya-malraju/Handwritten_equation_solver/assets/132793649/b1e07c90-4e2e-4331-9909-48065d4879eb">
+<img width="300" height="100" alt="image" src="https://github.com/shreya-malraju/Handwritten_equation_solver/assets/132793649/b1e07c90-4e2e-4331-9909-48065d4879eb">
 
 
 Extended MNIST dataset is used which has 14 classes( 10 digits, +, - ,* ,/ ).
